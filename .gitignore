@@ -1,0 +1,15 @@
+﻿# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore publish output
+publish/
+
+# Ignore secrets
+*.pfx
+*.publishsettings
